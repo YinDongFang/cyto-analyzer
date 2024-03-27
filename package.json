@@ -1,0 +1,31 @@
+{
+  "name": "cyto-analyzer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YinDongFang/cyto-analyzer.git"
+  },
+  "author": "YinDongFang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YinDongFang/cyto-analyzer/issues"
+  },
+  "homepage": "https://github.com/YinDongFang/cyto-analyzer#readme",
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "cytoscape": "^3.28.1",
+    "express": "^4.19.2",
+    "is-number": "^7.0.0",
+    "jquery": "^3.7.1",
+    "lazy-store-loader": "^2.0.3",
+    "querystring": "^0.2.1",
+    "react": "^18.2.0",
+    "vue": "^3.4.21",
+    "webpack": "^5.91.0"
+  }
+}
